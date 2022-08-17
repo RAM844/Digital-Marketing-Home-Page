@@ -25,8 +25,8 @@
 - It took me around 2 hours to built this website from scratch
 
 ## Links
-- [live demo](#)
-- [source](#)
+- [live demo](https://digita-marketing-home-page-by-shriram.netlify.app/)
+- [source](https://github.com/RAM844/Digital-Marketing-Home-Page)
 
 
 ## Contact me
